@@ -18,6 +18,8 @@ The primary goal of this project is to leverage ARIMA modeling techniques to eff
 5. **Model Evaluation**: Assess performance using statistical measures, diagnostic tests on residuals, and check for heteroskedasticity.
 6. **Prediction and Visualization**: Predict historical closing prices using the best model and visualize against actual values.
 
-## Conclusion
+## Results and Discussion
 
-The ARIMA modeling approach has proven effective in capturing the time series dynamics of Microsoft stock prices. By leveraging techniques such as decomposition, stationarity testing, and model selection criteria, this project demonstrates the process of building accurate time series models for historical prediction, providing insights for investment strategies and decision-making related to Microsoft stock.
+●	The ARIMA modeling approach has proven effective in capturing the time series dynamics of Microsoft stock prices.
+
+●	By leveraging techniques such as decomposition, stationarity testing, and model selection criteria, this project demonstrates the process of building accurate time series models for historical prediction, providing insights for investment strategies and decision-making related to Microsoft stock.

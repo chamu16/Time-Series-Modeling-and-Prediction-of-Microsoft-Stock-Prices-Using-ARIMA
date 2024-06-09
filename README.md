@@ -1,5 +1,10 @@
 # Time-Series-Modeling-and-Prediction-of-Microsoft-Stock-Prices-Using-ARIMA-Feb
 
+## Dataset
+
+https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis/data
+
+
 
 ## Introduction
 
